@@ -1,4 +1,4 @@
-# Raspberry-Pi-4-vs-Arduino-Mega-2560
+# Raspberry-Pi-4-vs-Arduino-Mega-2560 (December 2021)
 Execution time and speed up comparison between microprocessor and microcontroller
 
 Performance Analysis between Arduino Mega 2560 and Raspberry Pi 4 Jeremy Hester, Jason Farrell, John-Luke Speight
